@@ -1,1 +1,1 @@
-# 100-Days-of-Machine-Learning-Tutorial
+# 100 Days of Machine Learning Tutorial
