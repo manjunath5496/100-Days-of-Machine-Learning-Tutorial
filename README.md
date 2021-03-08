@@ -2,7 +2,7 @@
 <ul>
 <li><strong> <a href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/main/README.md">Python Tutorial</a></strong></li>
 </ul>
-<hr>
+<hr><hr>
 </br>
 
 <p><strong>Machine learning</strong>&nbsp;(<strong>ML</strong>) is the&nbsp;<a title="Branches of science" href="https://en.wikipedia.org/wiki/Branches_of_science">scientific study</a>&nbsp;of&nbsp;<a title="Algorithm" href="https://en.wikipedia.org/wiki/Algorithm">algorithms</a>&nbsp;and&nbsp;<a title="Statistical model" href="https://en.wikipedia.org/wiki/Statistical_model">statistical models</a>&nbsp;that&nbsp;<a class="mw-redirect" title="Computer systems" href="https://en.wikipedia.org/wiki/Computer_systems">computer systems</a>&nbsp;use to perform a specific task without using explicit instructions, relying on patterns and&nbsp;<a title="Inference" href="https://en.wikipedia.org/wiki/Inference">inference</a>&nbsp;instead. It is seen as a subset of&nbsp;<a title="Artificial intelligence" href="https://en.wikipedia.org/wiki/Artificial_intelligence">artificial intelligence</a>. Machine learning algorithms build a&nbsp;<a title="Mathematical model" href="https://en.wikipedia.org/wiki/Mathematical_model">mathematical model</a>&nbsp;based on sample data, known as "<a class="mw-redirect" title="Training data" href="https://en.wikipedia.org/wiki/Training_data">training data</a>", in order to make predictions or decisions without being explicitly programmed to perform the task.&nbsp;Machine learning algorithms are used in a wide variety of applications, such as&nbsp;<a title="Email filtering" href="https://en.wikipedia.org/wiki/Email_filtering">email filtering</a>&nbsp;and&nbsp;<a title="Computer vision" href="https://en.wikipedia.org/wiki/Computer_vision">computer vision</a>, where it is difficult or infeasible to develop a conventional algorithm for effectively performing the task.</p>
@@ -1851,116 +1851,7 @@ in Mathematical Logic</a></li>
 
 </ul>
 </br>
-<h2> Lecture Slides (David Poole and Alan Mackworth)  </h2>
 
-<h2>Chapter 1: Artificial Intelligence and Agents</h2>
-<ul>
-<li><a href="ch01/lect1.pdf" data-smd-id="s20">Lecture 1</a>: introduction to artificial intelligence and the role of agents.</li>
-<li><a href="ch01/lect2.pdf" data-smd-id="s21">Lecture 2</a>: dimensions of complexity.</li>
-<li><a href="ch01/lect3.pdf" data-smd-id="s22">Lecture 3</a>: applications domains.</li>
-<li><a href="ch01/lect4.pdf" data-smd-id="s23">Lecture 4</a>: introduction to knowledge representation.</li>
-</ul>
-
-<h2>Chapter 2: Agent Architectures and Hierarchical Control</h2>
-<ul>
-<li><a href="ch02/lect1.pdf" data-smd-id="s24">Lecture 1</a>: agent architecture and control</li>
-<li><a href="ch02/lect2.pdf" data-smd-id="s25">Lecture 2</a>: hierarchical control.</li>
-</ul>
-<h2>Chapter 3: Searching for Solutions</h2>
-<ul>
-<li><a href="ch03/lect1.pdf" data-smd-id="s26">Lecture 1</a>: searching and graphs.</li>
-<li><a href="ch03/lect2.pdf" data-smd-id="s27">Lecture 2</a>&nbsp;uninformed search strategies.</li>
-<li><a href="ch03/lect3.pdf" data-smd-id="s28">Lecture 3</a>&nbsp;heuristic search, including best-first search and A* search.</li>
-<li><a href="ch03/lect4.pdf" data-smd-id="s29">Lecture 4</a>&nbsp;refinements to search strategies, including loop checking, multiple-path pruning, bidirectional search, and dynamic programming.</li>
-<li><a href="ch03/lect5.pdf" data-smd-id="s30">Lecture 5</a>&nbsp;bounded search, iterative deepening, branch and bound.</li>
-</ul>
-<h2>Chapter 4: Reasoning with Constraints</h2>
-<ul>
-<li><a href="ch04/lect1.pdf" data-smd-id="s31">Lecture 1</a>&nbsp;constraint satisfaction problems and consistency algorithms (arc consistency).</li>
-<li><a href="ch04/lect2.pdf" data-smd-id="s32">Lecture 2</a>&nbsp;local search, randomized algorithms and genetic algorithms for solving CSPs.</li>
-<li><a href="ch04/lect3.pdf" data-smd-id="s33">Lecture 3</a>&nbsp;CSPs revisited, including dual representations and variable elimination.</li>
-</ul>
-<h2>Chapters 5: Propositions and Inference</h2>
-<ul>
-<li><a href="ch05/lect1.pdf" data-smd-id="s34">Lecture 1</a>&nbsp;propositional reasoning and definite clauses.</li>
-<li><a href="ch05/lect2.pdf" data-smd-id="s35">Lecture 2</a>&nbsp;bottom-up proof procedure.</li>
-<li><a href="ch05/lect3.pdf" data-smd-id="s36">Lecture 3</a>&nbsp;top-down proof procedure.</li>
-<li><a href="ch05/lect4.pdf" data-smd-id="s37">Lecture 4</a>&nbsp;ask-the-user and knowledge-level explanation and debugging.</li>
-<li><a href="ch05/lect5.pdf" data-smd-id="s38">Lecture 5</a>&nbsp;proof by contradiction, conflicts, and consistency-base diagnosis.</li>
-<li><a href="ch05/lect6.pdf" data-smd-id="s39">Lecture 6</a>&nbsp;complete knowledge assumption and negation as failure.</li>
-<li><a href="ch05/lect7.pdf" data-smd-id="s40">Lecture 7</a>&nbsp;assumption-based reasoning.</li>
-<li><a href="ch05/lect8.pdf" data-smd-id="s41">Lecture 8</a>&nbsp;default reasoning.</li>
-<li><a href="ch05/lect9.pdf" data-smd-id="s42">Lecture 9</a>&nbsp;evidential and causal reasoning.</li>
-</ul>
-<h2>Chapter 6: Planning with Certainty</h2>
-<ul>
-<li><a href="ch06/lect1.pdf" data-smd-id="s43">Lecture 1</a>&nbsp;action semantics and representations.</li>
-<li><a href="ch06/lect2.pdf" data-smd-id="s44">Lecture 2</a>&nbsp;forward planning.</li>
-<li><a href="ch06/lect3.pdf" data-smd-id="s45">Lecture 3</a>&nbsp;regression planning.</li>
-<li><a href="ch06/lect4.pdf" data-smd-id="s46">Lecture 4</a>&nbsp;constraint-based planning.</li>
-</ul>
-<h2>Chapter 7: Supervised Machine Learning</h2>
-<ul>
-<li><a href="ch07/lect1.pdf" data-smd-id="s47">Lecture 1</a>&nbsp;introduction to machine learning and the issues facing any learning algorithm.</li>
-<li><a href="ch07/lect2.pdf" data-smd-id="s48">Lecture 2</a>&nbsp;simplest cases of learning</li>
-<li><a href="ch07/lect3.pdf" data-smd-id="s49">Lecture 3</a>&nbsp;basic models of supervised learning (decision trees, linear classifiers, Bayesian classifiers)</li>
-<li><a href="ch07/lect4.pdf" data-smd-id="s50">Lecture 4</a>&nbsp;handling overfitting (regularization and cross validation).</li>
-<li><a href="ch07/lect5.pdf" data-smd-id="s51">Lecture 5</a>&nbsp;composite models, neural networks and ensembles.</li>
-<li><a href="ch07/lect6.pdf" data-smd-id="s52">Lecture 6</a>&nbsp;case-based reasoning.</li>
-</ul>
-<h2>Chapter 8: Reasoning with Uncertainty</h2>
-<ul>
-<li><a href="ch08/lect1.pdf" data-smd-id="s53">Lecture 1</a>&nbsp;probability.</li>
-<li><a href="ch08/lect2.pdf" data-smd-id="s54">Lecture 2</a>&nbsp;conditional independence and belief networks.</li>
-<li><a href="ch08/lect3.pdf" data-smd-id="s55">Lecture 3</a>&nbsp;properties of conditional independence, representing conditional probabilities.</li>
-<li><a href="ch08/lect4.pdf" data-smd-id="s56">Lecture 4</a>&nbsp;exact inference using variable elimination.</li>
-<li><a href="ch08/lect5.pdf" data-smd-id="s57">Lecture 5</a>&nbsp;probabilistic reasoning and time; Markov models.</li>
-<li><a href="ch08/lect6.pdf" data-smd-id="s58">Lecture 6</a>&nbsp;approximate inference using stochastic simulation.</li>
-</ul>
-<h2>Chapter 9: Planning with Uncertainty</h2>
-<ul>
-<li><a href="ch09/lect1.pdf" data-smd-id="s59">Lecture 1</a>&nbsp;utility theory.</li>
-<li><a href="ch09/lect2.pdf" data-smd-id="s60">Lecture 2</a>&nbsp;decision theory and finite stage decision networks</li>
-<li><a href="ch09/lect3.pdf" data-smd-id="s61">Lecture 3</a>&nbsp;decision processes.</li>
-</ul>
-<h2>Chapter 10: Learning with Uncertainty</h2>
-<ul>
-<li><a href="ch10/lect1.pdf" data-smd-id="s62">Lecture 1</a>: learning probabilities.</li>
-<li><a href="ch10/lect2.pdf" data-smd-id="s63">Lecture 2</a>: unsupervised learning.</li>
-<li><a href="ch10/lect3.pdf" data-smd-id="s64">Lecture 3</a>: learning belief networks.</li>
-<li><a href="ch10/lect4.pdf" data-smd-id="s65">Lecture 4</a>: Bayesian learning.</li>
-</ul>
-<h2>Chapter 11: Multiagent Systems</h2>
-<ul>
-<li><a href="ch11/lect1.pdf" data-smd-id="s66">Lecture 1</a>&nbsp;introduction to game theory.</li>
-</ul>
-<h2>Chapter 12: Learning to Act</h2>
-<ul>
-<li><a href="ch12/lect1.pdf" data-smd-id="s67">Lecture 1</a>&nbsp;reinforcement learning.</li>
-</ul>
-<h2>Chapter 13: Individuals and Relations</h2>
-<ul>
-<li><a href="ch13/lect1.pdf" data-smd-id="s68">Lecture 1</a>&nbsp;Datalog: syntax and semantics</li>
-<li><a href="ch13/lect2.pdf" data-smd-id="s69">Lecture 2</a>&nbsp;semantics of variables</li>
-<li><a href="ch13/lect3.pdf" data-smd-id="s70">Lecture 3</a>&nbsp;proof procedures with variables</li>
-<li><a href="ch13/lect4.pdf" data-smd-id="s71">Lecture 4</a>&nbsp;complete knowledge assumption and negation-as-failure</li>
-<li><a href="ch13/lect5.pdf" data-smd-id="s72">Lecture 5</a>&nbsp;logic for natural language processing</li>
-</ul>
-<h2>Chapter 14: Ontologies and Knowledge-Based Systems</h2>
-<ul>
-<li><a href="ch14/lect1.pdf" data-smd-id="s73">Lecture 1</a>&nbsp;flexible representations, semantic networks, frames, and property inheritance.</li>
-<li><a href="ch14/lect2.pdf" data-smd-id="s74">Lecture 2</a>&nbsp;knowledge sharing and ontologies.</li>
-<li><a href="ch14/lect3.pdf" data-smd-id="s75">Lecture 3</a>&nbsp;knowledge-based systems architectures and ask-the-user.</li>
-<li><a href="ch14/lect4.pdf" data-smd-id="s76">Lecture 4</a>&nbsp;knowledge-based explanation and debugging.</li>
-<li><a href="ch14/lect5.pdf" data-smd-id="s77">Lecture 5</a>&nbsp;meta-interpreters.</li>
-<li><a href="ch14/lect6.pdf" data-smd-id="s78">Lecture 6</a>&nbsp;more-advanced meta-interpreters.</li>
-</ul>
-<h2>Chapter 15: Relational Planning, Learning, and Probabilistic Reasoning</h2>
-<ul>
-<li><a href="ch15/lect1.pdf" data-smd-id="s79">Lecture 1</a>&nbsp;relational representations of actions and situation calculus.</li>
-<li><a href="ch15/lect2.pdf" data-smd-id="s80">Lecture 2</a>&nbsp;relational learning.</li>
-<li><a href="ch15/lect3.pdf" data-smd-id="s81">Lecture 3</a>&nbsp;probabilistic relational models.</li>
-</ul>
 <hr>
 <hr>
 
