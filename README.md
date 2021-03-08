@@ -1867,7 +1867,17 @@ in Mathematical Logic</a></li>
 <h2>Math ML Cheat Sheets </h2>
 
 
+<ul>
 
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ch(1).pdf" style="text-decoration:none;">Statistics</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ch(2).pdf" style="text-decoration:none;">Probability</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ch(3).pdf" style="text-decoration:none;">Calculus</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ch(4).pdf" style="text-decoration:none;">Linear algebra</a></li>                              
+</ul>
 
 
 
