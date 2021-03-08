@@ -571,6 +571,7 @@
 <li class="toclevel-1 tocsection-36"><a href="#Journals"><span class="toctext">Journals</span></a></li>
 <li class="toclevel-1 tocsection-37"><a href="#Conferences"><span class="toctext">Conferences</span></a></li>
  <li class="toclevel-1 tocsection-38"><a href="#Books"><span class="toctext">Books</span></a></li>
+  <li class="toclevel-1 tocsection-39"><a href="#Learn ML in 3 Months"><span class="toctext">Learn ML in 3 Months</span></a></li>
 </ul>
 </br>
 
