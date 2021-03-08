@@ -1882,3 +1882,65 @@ in Mathematical Logic</a></li>
 
 
 </br>
+
+
+<h2 id ="Learn ML in 3 Months">Learn ML in 3 Months</h2>
+<h3>Month 1</h3>
+<h3><a id="user-content-week-1-linear-algebra" class="anchor" href="https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months#week-1-linear-algebra"></a>Week 1 Linear Algebra</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=kjBOesZCoqc&amp;index=1&amp;list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab" rel="nofollow">https://www.youtube.com/watch?v=kjBOesZCoqc&amp;index=1&amp;list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab</a>&nbsp;</li>
+</ul>
+<ul>
+<li><a href="https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/" rel="nofollow">https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/</a></li>
+</ul>
+<h3><a id="user-content-week-2-calculus" class="anchor" href="https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months#week-2-calculus"></a>Week 2 Calculus</h3>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr" rel="nofollow">https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr</a></li>
+</ul>
+<h3><a id="user-content-week-3-probability" class="anchor" href="https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months#week-3-probability"></a>Week 3 Probability</h3>
+<ul>
+<li><a href="https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2" rel="nofollow">https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2</a></li>
+</ul>
+<h3><a id="user-content-week-4-algorithms" class="anchor" href="https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months#week-4-algorithms"></a>Week 4 Algorithms</h3>
+<ul>
+<li><a href="https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x" rel="nofollow">https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x</a></li>
+</ul>
+<h3><a id="user-content-month-2" class="anchor" href="https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months#month-2"></a>Month 2</h3>
+<h3><a id="user-content-week-1" class="anchor" href="https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months#week-1"></a>Week 1</h3>
+<h4><a id="user-content-learn-python-for-data-science" class="anchor" href="https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months#learn-python-for-data-science"></a>Learn python for data science</h4>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=T5pRlIbr6gg&amp;list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU" rel="nofollow">https://www.youtube.com/watch?v=T5pRlIbr6gg&amp;list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU</a></li>
+</ul>
+<h4><a id="user-content-math-of-intelligence" class="anchor" href="https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months#math-of-intelligence"></a>Math of Intelligence</h4>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=xRJCOz3AfYY&amp;list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D" rel="nofollow">https://www.youtube.com/watch?v=xRJCOz3AfYY&amp;list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D</a></li>
+</ul>
+<h4><a id="user-content-intro-to-tensorflow" class="anchor" href="https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months#intro-to-tensorflow"></a>Intro to Tensorflow</h4>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=2FmcHiLCwTU&amp;list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV" rel="nofollow">https://www.youtube.com/watch?v=2FmcHiLCwTU&amp;list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV</a></li>
+</ul>
+<h3><a id="user-content-week-2" class="anchor" href="https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months#week-2"></a>Week 2</h3>
+<ul>
+<li>Intro to ML (Udacity)&nbsp;<a href="https://eu.udacity.com/course/intro-to-machine-learning--ud120" rel="nofollow">https://eu.udacity.com/course/intro-to-machine-learning--ud120</a></li>
+</ul>
+<h3><a id="user-content-week-3-4" class="anchor" href="https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months#week-3-4"></a>Week 3-4</h3>
+<ul>
+<li>ML Project Ideas&nbsp;<a href="https://github.com/NirantK/awesome-project-ideas">https://github.com/NirantK/awesome-project-ideas</a></li>
+</ul>
+<h3><a id="user-content-month-3-deep-learning" class="anchor" href="https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months#month-3-deep-learning"></a>Month 3 (Deep Learning)</h3>
+<h3><a id="user-content-week-1-1" class="anchor" href="https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months#week-1-1"></a>Week 1</h3>
+<ul>
+<li>Intro to Deep Learning&nbsp;<a href="https://www.youtube.com/watch?v=vOppzHpvTiQ&amp;list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3" rel="nofollow">https://www.youtube.com/watch?v=vOppzHpvTiQ&amp;list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3</a></li>
+</ul>
+<h3><a id="user-content-week-2-1" class="anchor" href="https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months#week-2-1"></a>Week 2</h3>
+<ul>
+<li>Deep Learning by Fast.AI&nbsp;<a href="http://course.fast.ai/" rel="nofollow">http://course.fast.ai/</a></li>
+</ul>
+<h3><a id="user-content-week-3-4-1" class="anchor" href="https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months#week-3-4-1"></a>Week 3-4</h3>
+<ul>
+<li>Re-implement DL projects from my github&nbsp;<a href="https://github.com/llSourcell?tab=repositories">https://github.com/llSourcell?tab=repositories</a></li>
+</ul>
+</br>
+
+
+
