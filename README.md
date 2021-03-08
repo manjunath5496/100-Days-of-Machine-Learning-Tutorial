@@ -1961,7 +1961,8 @@ in Mathematical Logic</a></li>
 <li><a href="ch15/lect2.pdf" data-smd-id="s80">Lecture 2</a>&nbsp;relational learning.</li>
 <li><a href="ch15/lect3.pdf" data-smd-id="s81">Lecture 3</a>&nbsp;probabilistic relational models.</li>
 </ul>
->
+<hr>
+<hr>
 
 </br>
 <ul>
