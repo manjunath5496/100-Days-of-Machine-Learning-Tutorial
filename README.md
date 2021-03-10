@@ -1657,7 +1657,7 @@ in Science and Engineering</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(74).pdf" style="text-decoration:none;">Performance and Evaluation
 of Lisp Systems </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/q(1).rar" style="text-decoration:none;">Linear Regression Using R: An Introduction to Data Modeling </a></li>  
-  
+  <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/main/10694.pdf" style="text-decoration:none;">Types of Machine Learning Algorithms </a></li> 
   
   </ul>
 </br>
