@@ -572,6 +572,9 @@
 <li class="toclevel-1 tocsection-37"><a href="#Conferences"><span class="toctext">Conferences</span></a></li>
  <li class="toclevel-1 tocsection-38"><a href="#Books"><span class="toctext">Books</span></a></li>
   <li class="toclevel-1 tocsection-39"><a href="#Learn ML in 3 Months"><span class="toctext">Learn ML in 3 Months</span></a></li>
+ <li class="toclevel-1 tocsection-40"><a href="#Data Science Resources"><span class="toctext"> Data Science Resources</span></a></li>
+ 
+
 </ul>
 </br>
 
@@ -1943,7 +1946,7 @@ in Mathematical Logic</a></li>
 </ul>
 </br>
 
-<h2>Data Science Resources</h2>
+<h2 id="Data Science Resources">Data Science Resources</h2>
 <p>&nbsp;</p>
 <h2>Probability and Statistics</h2>
 <ul>
