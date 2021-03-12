@@ -1866,6 +1866,7 @@ in Mathematical Logic</a></li>
  
  <li><a href="https://manjunath5496.github.io/ml-quiz/index.html">ML Quiz</a></li>
  <li><a href="https://github.com/kojino/120-Data-Science-Interview-Questions/blob/master/README.md">120 Data Science Interview Questions</a></li>
+  <li><a href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/main/iq.rar">30 Days of ML Tutorial</a></li>
   <li><a href="https://www.youtube.com/results?search_query=Machine+Learning+Tutorial">ML videos</a></li>
 </ul>
 </br>
