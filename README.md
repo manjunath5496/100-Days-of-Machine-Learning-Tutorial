@@ -1540,7 +1540,7 @@ Neural Networks</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(20).pdf" style="text-decoration:none;">A Field Guide to Genetic Programming</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(21).pdf" style="text-decoration:none;">Problem Solving with Algorithms and Data Structures</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(22).pdf" style="text-decoration:none;">Python for Everybody: Exploring Data Using Python 3</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(22).pdf" style="text-decoration:none;">Foundations of Computation</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(23).pdf" style="text-decoration:none;">Think Complexity</a></li> 
  
 
