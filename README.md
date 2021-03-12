@@ -2547,6 +2547,28 @@ Poisoning Vulnerabilities in Neural Code Completion</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(166).pdf" style="text-decoration:none;">DEXTER: LargeScale
 Discovery and Extraction of Product Specifications on the Web</a></li> 
 
+  <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(167).pdf" style="text-decoration:none;">The Discipline of Machine Learning</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(168).pdf" style="text-decoration:none;">Estimating Probabilities</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(169).pdf" style="text-decoration:none;">Generative And Discriminative Classifiers: Naive Bayes And Logistic Regression</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(170).pdf" style="text-decoration:none;">Generalization Abilities: Sample Complexity Results</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(171).pdf" style="text-decoration:none;">The Boosting Approach to Machine Learning: An Overview</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(172).pdf" style="text-decoration:none;">Theory and Applications Theory and Applications of Boosting</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(173).pdf" style="text-decoration:none;">Learning Linear Separators</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(174).pdf" style="text-decoration:none;">Semi-Supervised Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(175).pdf" style="text-decoration:none;">Transductive Inference for Text Classification using Support Vector Machines</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(176).pdf" style="text-decoration:none;">Two faces of active learning</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(177).pdf" style="text-decoration:none;">Active Learning Literature Survey</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(178).pdf" style="text-decoration:none;">Active Learning &minus; Modern Learning Theory</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(179).pdf" style="text-decoration:none;">Center Based Clustering: A Foundational Perspective</a></li>
+
+
+
+
+
 </ul>
 
 
