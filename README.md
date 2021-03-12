@@ -2522,54 +2522,50 @@ for the Plan 9 Operating System</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(139).pdf" style="text-decoration:none;">RadixVM: Scalable address spaces for multithreaded applications</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(140).pdf" style="text-decoration:none;">RadixVM: Scalable address spaces for multithreaded applications (revised 2014-08-05)</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(141).pdf" style="text-decoration:none;"> Identifying information disclosure in web applications with retroactive auditing</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(142).pdf" style="text-decoration:none;">Optimizing RAM-latency Dominated Applications</a></li>                             
- <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(143).pdf" style="text-decoration:none;">ScaleFS: A Multicore-Scalable File System</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(144).pdf" style="text-decoration:none;">WhanauSIP: A Secure Peer-to-Peer
-Communications Platform</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(145).pdf" style="text-decoration:none;">Scalable Address Spaces Using RCU Balanced Trees</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(146).pdf" style="text-decoration:none;">Intrusion Recovery Using Selective Re-execution</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(141).pdf" style="text-decoration:none;"> OffSide: Learning to Identify Mistakes in Boundary Conditions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(142).pdf" style="text-decoration:none;">Global Relational Models of Source Code</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(143).pdf" style="text-decoration:none;">GloVe: Global Vectors forWord Representation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(144).pdf" style="text-decoration:none;">Hoppity: Learning Graph Transformations to Detect and Fix Bugs in Programs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(145).pdf" style="text-decoration:none;">Information Systems for Business and Beyond</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(146).pdf" style="text-decoration:none;">Introductory statistics</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(147).pdf" style="text-decoration:none;">Modular Components for Network Address Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(147).pdf" style="text-decoration:none;">Lambdanet: Probabilistic Type Inference Using Graph Neural Networks</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(148).pdf" style="text-decoration:none;">An Extension-Oriented Compiler</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(148).pdf" style="text-decoration:none;">Will they like this? Evaluating Code Contributions With Language Models</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(149).pdf" style="text-decoration:none;">Optimizing Communication Bottlenecks in Multiprocessor Operating System Kernels</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(149).pdf" style="text-decoration:none;">Linguistic Regularities in Continuous SpaceWord Representations</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(150).pdf" style="text-decoration:none;">Scaling a file system to many cores
-using an operation log</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(150).pdf" style="text-decoration:none;">Learning Natural Coding Conventions</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(151).pdf" style="text-decoration:none;">A Software Approach to Unifying Multicore Caches </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(151).pdf" style="text-decoration:none;">Deep learning </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(152).pdf" style="text-decoration:none;">Self-Certifying File System Implementation for Windows </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(153).pdf" style="text-decoration:none;">Flexible Key Management with SFS Agents</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(154).pdf" style="text-decoration:none;">Access Control Lists for the Self-Certifying
-Filesystem</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(152).pdf" style="text-decoration:none;">Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(153).pdf" style="text-decoration:none;">ImageNet Classification with Deep Convolutional Neural Networks</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(154).pdf" style="text-decoration:none;">Siamese Neural Networks for One-shot Image Recognition</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(155).pdf" style="text-decoration:none;">Separating key management from file system security</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(155).pdf" style="text-decoration:none;">SageDB: A Learned Database System</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(156).pdf" style="text-decoration:none;">Concurrency Control for Multi-Processor Event-Driven Systems</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(157).pdf" style="text-decoration:none;">Fast and secure distributed read-only file system</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(158).pdf" style="text-decoration:none;">Shenango: Achieving High CPU Efficiency for
-Latency-sensitive Datacenter Workloads</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(156).pdf" style="text-decoration:none;">Relational Databases and Microsoft Access</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(157).pdf" style="text-decoration:none;">Dropout: A Simple Way to Prevent Neural Networks from Overfitting</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(158).pdf" style="text-decoration:none;">Answering questions with data</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(159).pdf" style="text-decoration:none;">View-Centric Performance Optimization for
-Database-Backed Web Applications </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(159).pdf" style="text-decoration:none;">Supplementary material for Bimodal Modelling of Source Code and Natural Language </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(160).pdf" style="text-decoration:none;">Sieve: Cryptographically Enforced Access Control for User Data in Untrusted Clouds</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(160).pdf" style="text-decoration:none;">The Sustainable Business Case Book</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(161).pdf" style="text-decoration:none;">Storing and Managing Data in a Distributed Hash Table</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(161).pdf" style="text-decoration:none;">The Data Journalism Handbook</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(162).pdf" style="text-decoration:none;">Splinter: Practical Private Queries on Public Data</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(163).pdf" style="text-decoration:none;">The Science of Software and System Design </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(162).pdf" style="text-decoration:none;">A Neural Algorithm of Artistic Style</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(163).pdf" style="text-decoration:none;">Deep Compositional Question Answering with Neural Module Networks</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(164).pdf" style="text-decoration:none;">A Measurement Study of Available Bandwidth Estimation Tools</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(164).pdf" style="text-decoration:none;">Learning Transferable Architectures for Scalable Image Recognition</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(165).pdf" style="text-decoration:none;">Designing multicore scalable filesystems with durability and crash consistency</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(165).pdf" style="text-decoration:none;">SQLNet: Generating Structured Queries from Natural Language Without Reinforcement Learning</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(166).pdf" style="text-decoration:none;">SSL splitting: securely serving data from untrusted caches</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(166).pdf" style="text-decoration:none;">DEXTER: LargeScale
+Discovery and Extraction of Product Specifications on the Web</a></li> 
 
 </ul>
 
