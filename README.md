@@ -2425,28 +2425,27 @@ API integrity and multi-principal modules</a></li>
   
 <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(100).pdf" style="text-decoration:none;">Cache Craftiness for Fast Multicore Key-Value Storage</a></li>  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(101).pdf" style="text-decoration:none;">Practical and effective sandboxing for non-root users</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(101).pdf" style="text-decoration:none;">Learning to Update Natural Language Comments Based on Code Changes</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(102).pdf" style="text-decoration:none;">Extracting and optimizing formally verified code for systems programming</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(102).pdf" style="text-decoration:none;">Fast and Memory-Efficient Neural Code Completion</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(103).pdf" style="text-decoration:none;">Optimizing MapReduce for Multicore Architectures </a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(103).pdf" style="text-decoration:none;">A Transformer-based Approach for Source Code Summarization </a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(104).pdf" style="text-decoration:none;">MultiQ: Automated Detection of
-Multiple Bottleneck Capacities Along a Path</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(104).pdf" style="text-decoration:none;">Code and Named Entity Recognition in StackOverflow</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(105).pdf" style="text-decoration:none;">Towards Multiverse Databases</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(105).pdf" style="text-decoration:none;">A Multi-Perspective Architecture for Semantic Code Search</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(106).pdf" style="text-decoration:none;">Optimizations for Performant Multiverse Databases</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(106).pdf" style="text-decoration:none;">IntelliCode Compose: Code Generation using Transformer</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(107).pdf" style="text-decoration:none;">Multiverse Databases for Secure Web Applications</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(107).pdf" style="text-decoration:none;">Learning Semantic Program Embeddings with Graph Interval Neural Network</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(108).pdf" style="text-decoration:none;">Building web applications on top of encrypted data using Mylar</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(108).pdf" style="text-decoration:none;">Graph-based, Self-Supervised Program Repair from Diagnostic Feedback</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(109).pdf" style="text-decoration:none;">Nail: A practical tool for parsing and generating data formats</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(109).pdf" style="text-decoration:none;">A Structural Model for Contextual Code Changes</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(110).pdf" style="text-decoration:none;">NATRON: Overlay Routing to Oblivious Destinations </a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(110).pdf" style="text-decoration:none;">Copy That! Editing Sequences by Copying Spans </a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(111).pdf" style="text-decoration:none;">MISIM: A Novel Code Similarity System</a></li> 
   
