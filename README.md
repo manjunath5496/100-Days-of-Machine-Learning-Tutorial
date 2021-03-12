@@ -2304,34 +2304,27 @@ Unified, Real-Time Object Detection</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(35).pdf" style="text-decoration:none;">Deep Learning with Differential Privacy</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(36).pdf" style="text-decoration:none;">Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(37).pdf" style="text-decoration:none;">A deep language model for software code</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(38).pdf" style="text-decoration:none;">Densely Connected Convolutional Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(39).pdf" style="text-decoration:none;">WaveNet: A Generative Model for Raw Audio</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(40).pdf" style="text-decoration:none;">An overview of gradient descent optimization algorithms </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(41).pdf" style="text-decoration:none;">Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(42).pdf" style="text-decoration:none;">Universal adversarial perturbations</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(43).pdf" style="text-decoration:none;">Neural Architecture Search with Reinforcement Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(44).pdf" style="text-decoration:none;">DeepCoder: Learning to Write Programs</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(45).pdf" style="text-decoration:none;">Designing Neural Network Architectures using Reinforcement Learning</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(46).pdf" style="text-decoration:none;">Understanding deep learning requires rethinking generalization</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(47).pdf" style="text-decoration:none;">Learning the Number of Neurons in Deep Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(48).pdf" style="text-decoration:none;">Learning Python Code Suggestion with a Sparse Pointer Network</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(49).pdf" style="text-decoration:none;">Interaction Networks for Learning about Objects, Relations and Physics</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(50).pdf" style="text-decoration:none;">StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/100-Days-of-Machine-Learning-Tutorial/blob/master/ml(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
 
