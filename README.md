@@ -1943,5 +1943,288 @@ in Mathematical Logic</a></li>
 </ul>
 </br>
 
-
+<h2>Data Science Resources</h2>
+<p>&nbsp;</p>
+<h2>Probability and Statistics</h2>
+<ul>
+<li><a href="https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291" rel="nofollow">Understand the basics of Descriptive Statistics(Really Important for an interview)</a>&nbsp;</li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/" rel="nofollow">40 Question on&nbsp;<strong>probability</strong>&nbsp;for a Data Science Interview</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/40-statistics-interview-problems-and-answers-for-data-scientists-6971a02b7eee" rel="nofollow">40 Statistics Interview Problems and Answers for Data Scientists</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/probability-and-statistics-explained-in-the-context-of-deep-learning-ed1509b2eb3f" rel="nofollow">Probability and Statistics in the context of Deep Learning</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=pYxNSUDSFH4" rel="nofollow">Probability v/s Likelihood</a>&nbsp;</li>
+<li><a href="https://medium.com/data-science-journal/the-bootstrap-the-swiss-army-knife-of-any-data-scientist-acd6e592be13" rel="nofollow">Bootstrap Methods - The Swiss Army Knife of any Data Scientist</a>&nbsp;</li>
+<li><a href="https://mlwhiz.com/blog/2020/02/21/ci/" rel="nofollow">Confidence Intervals Explained Simply for Data Scientists</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/p-value-explained-simply-for-data-scientists-4c0cd7044f14" rel="nofollow">P-value Explained Simply for Data Scientists</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/pdf-is-not-a-probability-5a4b8a5d9531" rel="nofollow">PDF is not a probability</a>&nbsp;</li>
+<li><a href="https://mlwhiz.com/blog/2019/07/30/sampling/" rel="nofollow">5 Sampling algorithms every Data Scientist should know</a>&nbsp;</li>
+<li><a href="https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html" rel="nofollow">The 10 Statistical Techniques Data Scientists Need to Master</a>&nbsp;</li>
+</ul>
+<hr />
+<h2><a id="user-content-sql-and-data-acquisition" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#sql-and-data-acquisition"></a>SQL and Data Acquisition</h2>
+<ul>
+<li><a href="https://towardsdatascience.com/5-common-sql-interview-problems-for-data-scientists-1bfa02d8bae6" rel="nofollow">5 Common SQL Interview Problems for Data Scientists</a>&nbsp;</li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/01/46-questions-on-sql-to-test-a-data-science-professional-skilltest-solution/" rel="nofollow">46 Questions to test a Data Scientist on SQL</a>&nbsp;</li>
+<li><a href="https://www.nicksingh.com/posts/30-sql-and-database-design-questions-from-real-data-science-interviews" rel="nofollow">30 SQL Interview Questions curated for FAANG by an Ex-Facebook Data Scientist</a>&nbsp;</li>
+<li><a href="https://365datascience.com/sql-interview-questions/" rel="nofollow">SQL Interview Questions</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/how-to-ace-data-science-interviews-sql-b71de212e433" rel="nofollow">How to ace Data Science Interviews - SQL</a>&nbsp;</li>
+<li><a href="https://medium.com/@jayfeng/three-must-know-sql-questions-to-pass-your-data-science-interview-463311c7eaea" rel="nofollow">3 Must Know SQL Questions to pass your Data Science Interview</a>&nbsp;</li>
+<li><a href="https://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html" rel="nofollow">10 frequently asked SQL Queries in Interviews</a>&nbsp;</li>
+<li><a href="https://hackernoon.com/technical-data-science-interview-questions-sql-and-coding-jv1k32bf" rel="nofollow">Technical Data Science Interview Questions: SQL and Coding</a>&nbsp;</li>
+<li><a href="https://www.datacamp.com/community/tutorials/sql-tutorial-query" rel="nofollow">How to optimize SQL Queries - Datacamp</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/ten-sql-concepts-you-should-know-for-data-science-interviews-7acf3e428185" rel="nofollow">Ten SQL Concepts You Should Know for Data Science Interviews</a>&nbsp;</li>
+</ul>
+<hr />
+<h2><a id="user-content-data-preparation-and-visualization" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#data-preparation-and-visualization"></a>Data Preparation and Visualization</h2>
+<ul>
+<li><a href="https://towardsdatascience.com/the-5-feature-selection-algorithms-every-data-scientist-need-to-know-3a6b566efd2" rel="nofollow">5 Feature Selection Algorithms every Data Scientist should know</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779" rel="nofollow">6 Different Ways to Compensate for Missing Values In a Dataset&nbsp;</a></li>
+<li><a href="https://towardsdatascience.com/a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561" rel="nofollow">A Brief Overview of Outlier Detection Techniques</a>&nbsp;</li>
+<li><a href="https://medium.com/@rrfd/cleaning-and-prepping-data-with-python-for-data-science-best-practices-and-helpful-packages-af1edfbe2a3" rel="nofollow">Cleaning and Prepping Data with Python for Data Science &mdash; Best Practices and Helpful Packages</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/what-plot-why-this-plot-and-why-not-9508a0cb35ea" rel="nofollow">When to use which plot for visualization</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba" rel="nofollow">Ways to detect and remove Outliers</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2" rel="nofollow">Dealing with Class Imbalances in Machine Learning</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159" rel="nofollow">Smarter ways to encode categorical data</a></li>
+<li><a href="https://github.com/jessicayung/data-analyst-nd/blob/master/2-intro-to-data-analysis/numpy_pandas_cheatsheet.pdf">Numpy and Pandas Cheatsheet</a>&nbsp;</li>
+<li><a href="https://www.kdnuggets.com/2017/01/3-methods-deal-outliers.html" rel="nofollow">3 Methods to deal with outliers</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e" rel="nofollow">Feature Selection Techniques</a>&nbsp;</li>
+<li><a href="https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e" rel="nofollow">Why, how and When to scale your features</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/everything-you-need-to-know-about-scatter-plots-for-data-visualisation-924144c0bc5" rel="nofollow">Everything you need to know about Scatter plots</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=YaKMeAlHgqQ" rel="nofollow">How to Select Features for Machine Learning</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=Erp0bjEPoM8" rel="nofollow">10 ways for Feature Selection</a>&nbsp;</li>
+</ul>
+<hr />
+<h2><a id="user-content-classic-machine-learning-algorithms" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#classic-machine-learning-algorithms"></a>Classic Machine Learning Algorithms</h2>
+<h3><a id="user-content-1-logistic-regression" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#1-logistic-regression"></a>1. Logistic Regression</h3>
+<ul>
+<li><a href="https://towardsdatascience.com/logistic-regression-b0af09cdb8ad" rel="nofollow">All about Logistic Regression in one article</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/understanding-logistic-regression-step-by-step-704a78be7e0a" rel="nofollow">Understanding Logistic Regression step-by-step</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=yIYKR4sgzI8" rel="nofollow">Logistic Regression - Short and Clear Explanation - 9 Mins</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=OCwZyYH14uw" rel="nofollow">Linear Regression vs Logistic Regression</a>&nbsp;</li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/08/skilltest-logistic-regression/" rel="nofollow">30 Questions to test a Data Scientist on Logistic Regression</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=VCJdg7YBbAQ" rel="nofollow">Logistic Regression - Understand Everything (Theory + Maths + Coding) in 1 video</a>&nbsp;</li>
+</ul>
+<h3><a id="user-content-2-linear-regression" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#2-linear-regression"></a>2. Linear Regression</h3>
+<ul>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/" rel="nofollow">30 Questions to test a Data Scientist on Linear Regression</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=E5RjzSK0fvY" rel="nofollow">Linear Regression - Understand Everything (Theory + Maths + Coding) in 1 video</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e" rel="nofollow">5 Types of Regression and their properties</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=Q81RR3yKn30" rel="nofollow">Ridge Regression - Clearly Explained</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=NGf0voTMlcs" rel="nofollow">Lasso Regression - Clearly Explained</a>&nbsp;</li>
+</ul>
+<h3><a id="user-content-3-tree-basedensemble-algorithms" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#3-tree-basedensemble-algorithms"></a>3. Tree Based/Ensemble Algorithms</h3>
+<ul>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/" rel="nofollow">30 Questions to test a Data Scientist on Tree based models</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/gini-index-vs-information-entropy-7a7e4fed3fcb" rel="nofollow">Gini-index v/s Information Entropy</a>&nbsp;</li>
+<li><a href="https://www.analyticsvidhya.com/blog/2020/05/decision-tree-vs-random-forest-algorithm/" rel="nofollow">Decision Tree vs. Random Forest &ndash; Which Algorithm Should you Use?</a>&nbsp;</li>
+<li><a href="https://medium.com/datadriveninvestor/why-wont-time-series-data-and-random-forests-work-very-well-together-3c9f7b271631" rel="nofollow">Why Random Forest doesn't work well for Time-Series?</a>&nbsp;</li>
+<li><a href="https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/" rel="nofollow">Comprehensive guide to Ensemble Models</a>&nbsp;</li>
+<li><a href="https://mlwhiz.com/blog/2019/11/12/dtsplits/" rel="nofollow">The Simple Math behind 3 Decision Tree Splitting criterions</a>&nbsp;</li>
+</ul>
+<h3><a id="user-content-4-k-nearest-neighbors" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#4-k-nearest-neighbors"></a>4. K-Nearest-Neighbors</h3>
+<ul>
+<li><a href="http://theprofessionalspoint.blogspot.com/2019/01/knn-algorithm-in-machine-learning.html" rel="nofollow">Fundamental Interview Questions on KNN - A Quick refresh</a>&nbsp;</li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/" rel="nofollow">30 Questions to test a Data Scientist on KNN</a>&nbsp;</li>
+<li><a href="https://www.fromthegenesis.com/pros-and-cons-of-k-nearest-neighbors/" rel="nofollow">Pros and Cons of KNN</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=6kZ-OPLNcgE" rel="nofollow">KNN Algorithm - Understand Everything (Theory + Maths + Coding) in 1 video</a>&nbsp;</li>
+</ul>
+<h3><a id="user-content-5-support-vector-machines" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#5-support-vector-machines"></a>5. Support Vector Machines</h3>
+<ul>
+<li><a href="https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589" rel="nofollow">All about SVMs - Math, Terminology, Intuition, Kernels in one article</a>&nbsp;</li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/10/svm-skilltest/" rel="nofollow">25 Questions to test a Data Scientist on SVMs</a>&nbsp;</li>
+</ul>
+<h3><a id="user-content-6-naive-bayes" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#6-naive-bayes"></a>6. Naive Bayes</h3>
+<ul>
+<li><a href="https://machinelearningmastery.com/better-naive-bayes/" rel="nofollow">12 tips to make most out of Naive Bayes</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=vz_xuxYS2PM" rel="nofollow">Naive Bayes - Understand Everything (Theory + Maths + Coding) in 1 video</a>&nbsp;</li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/" rel="nofollow">6 easy steps to learn Naive Bayes</a>&nbsp;</li>
+</ul>
+<hr />
+<h2><a id="user-content-time-series" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#time-series"></a>Time Series</h2>
+<ul>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-time-series-solution-skillpower-time-series-datafest-2017/" rel="nofollow">40 Questions to test a Data Scientist on Time Series</a>&nbsp;</li>
+<li><a href="https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/" rel="nofollow">11 Classical Time Series Forecasting Methods</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=654SjiZO5ks" rel="nofollow">Interview Questions on ARIMA</a>&nbsp;</li>
+</ul>
+<hr />
+<h2><a id="user-content-unsupervised-learning" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#unsupervised-learning"></a>Unsupervised Learning</h2>
+<ul>
+<li><a href="https://medium.com/@sadatnazrul/the-dos-and-donts-of-principal-component-analysis-7c2e9dc8cc48" rel="nofollow">The DOs and DONTs of PCA(Principal Component Analysis)</a>&nbsp;</li>
+<li><a href="https://www.datacamp.com/community/tutorials/introduction-t-sne" rel="nofollow">An introduction to t-SNE : DataCamp</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=4QMFNg7tjbk" rel="nofollow">Dimensionally Reducing Squeezing out the good stuff</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79" rel="nofollow">Dimensionality Reduction for Dummies : Part 1 - Intuition</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/explaining-dbscan-clustering-18eaf5c83b31" rel="nofollow">In-depth Explanation of DBSCAN Algorithm</a>&nbsp;</li>
+</ul>
+<hr />
+<h2><a id="user-content-recommender-systems" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#recommender-systems"></a>Recommender Systems</h2>
+<ul>
+<li><a href="https://www.kdnuggets.com/2020/07/recommender-systems-nutshell.html" rel="nofollow">Recommender Systems in a Nutshell</a></li>
+</ul>
+<hr />
+<h2><a id="user-content-deep-learning" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#deep-learning"></a>Deep Learning</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=4nqD5TBlOWU" rel="nofollow">Why Regularization reduces overfitting in Deep Neural Networks</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/hype-disadvantages-of-neural-networks-6af04904ba5b" rel="nofollow">Pros and Cons of Neural Networks</a>&nbsp;</li>
+<li><a href="https://medium.com/datadriveninvestor/when-not-to-use-neural-networks-89fb50622429" rel="nofollow">When not to use Neural Networks</a>&nbsp;</li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-deep-learning/" rel="nofollow">40 Questions to test a Data Scientist on Deep learning</a>&nbsp;</li>
+<li><a href="https://www.analyticsvidhya.com/blog/2020/04/comprehensive-popular-deep-learning-interview-questions-answers/" rel="nofollow">21 Popular Deep Learning Interview Questions</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=HGXlFG_Rz4E" rel="nofollow">Deep Learning Interview Questions - Edureka</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6" rel="nofollow">Activation Functions in a Neural Network - Explained</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=qO_NLVjD6zE" rel="nofollow">Vanishing and Exploding Gradient - Clearly Explained</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=EuBBz3bI-aA" rel="nofollow">Bias and Variance - Very clearly explained</a>&nbsp;</li>
+<li><a href="https://stats.stackexchange.com/questions/126238/what-are-the-advantages-of-relu-over-sigmoid-function-in-deep-neural-networks" rel="nofollow">Why use ReLU over Sigmoid</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/50-deep-learning-interview-questions-part-1-2-8bbc8a00ec61" rel="nofollow">25 Deep Learning Interview Qurstions to test your knowledge</a>&nbsp;</li>
+<li><a href="https://nanonets.com/blog/10-best-practices-deep-learning/" rel="nofollow">10 Deep Learning Best Practices to Keep in Mind in 2020</a>&nbsp;</li>
+</ul>
+<hr />
+<h2><a id="user-content-machine-learning-interpretability" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#machine-learning-interpretability"></a>Machine Learning Interpretability</h2>
+<ul>
+<li><a href="https://narrativescience.com/resource/blog/machine-learning-models/" rel="nofollow">Four Questions on Deciphering the World of Machine Learning Models</a>&nbsp;</li>
+<li><a href="https://www.kaggle.com/learn/machine-learning-explainability" rel="nofollow">Machine Learning Explanaibility - Crash Course by Kaggle</a>&nbsp;</li>
+</ul>
+<hr />
+<h2><a id="user-content-case-studies" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#case-studies"></a>Case Studies</h2>
+<ul>
+<li><a href="https://www.analyticsvidhya.com/blog/2016/04/case-study-analytics-interviews-dawn-taxi-aggregators/" rel="nofollow">Dawn of Taxi Aggregators</a>&nbsp;</li>
+<li><a href="https://www.analyticsvidhya.com/blog/2016/07/solving-case-study-optimize-products-price-online-vendor-level-hard/" rel="nofollow">Optimizing product prices for an online vendor</a>&nbsp;</li>
+<li><a href="https://workera.ai/resources/data-science-case-study-interview/" rel="nofollow">Tips for a Case-Study Interview</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/a-data-science-case-study-with-python-mercari-price-prediction-4e852d95654" rel="nofollow">Mercari Price Prediction</a>&nbsp;</li>
+<li><a href="https://mlwhiz.com/blog/2020/05/24/multitextclass/" rel="nofollow">End-to-End multiclass Text Classification pipeline</a>&nbsp;</li>
+<li><a href="https://mlwhiz.com/blog/2020/06/06/multiclass_image_classification_pytorch/" rel="nofollow">End-to-End multiclass Image Classification pipeline</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=8jfDBD6xlFM" rel="nofollow">Large Scale Forecasting for 1000+ products - Nagarro</a>&nbsp;</li>
+<li><a href="https://lucidworks.com/post/clustering-classification-supervised-unsupervised-learning-ecommerce/" rel="nofollow">Clustering and Classification in E-Commerce</a>&nbsp;</li>
+<li><a href="https://lucidworks.com/post/abcs-learning-to-rank/" rel="nofollow">The ABCs of Learning to Rank</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/data-science-case-study-optimizing-product-placement-in-retail-part-1-2e8b27e16e8d" rel="nofollow">Data Science Case Study: Optimizing Product Placement in Retail&nbsp;</a></li>
+</ul>
+<hr />
+<h2><a id="user-content-nlp" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#nlp"></a>NLP</h2>
+<ul>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/" rel="nofollow">30 Questions to test a Data Scientist on NLP</a></li>
+<li><a href="https://analyticsindiamag.com/11-most-commonly-asked-nlp-interview-questions-for-beginners/" rel="nofollow">11 Most Commonly Asked NLP Interview Questions For Beginners</a></li>
+<li><a href="https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e" rel="nofollow">How to solve 90% of NLP Problems</a></li>
+<li><a href="https://medium.com/modern-nlp/nlp-interview-questions-f062040f32f7" rel="nofollow">Questions asked for NLP Roles at Companies</a></li>
+</ul>
+<hr />
+<h2><a id="user-content-data-science-interviews-at-faang-and-similar-companies" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#data-science-interviews-at-faang-and-similar-companies"></a>Data Science Interviews at FAANG and Similar Companies</h2>
+<ul>
+<li><a href="https://towardsdatascience.com/amazon-data-scientist-interview-practice-problems-15b9b86e86c6" rel="nofollow">Amazon&rsquo;s Data Scientist Interview Practice Problems</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/microsoft-data-science-interview-questions-and-answers-69ccac16bd9b" rel="nofollow">Microsoft Data Science Interview Questions and Answers</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/googles-data-science-interview-brain-teasers-7f3c1dc4ea7f" rel="nofollow">Problem Solving Questions for Data Science interview at Google</a>&nbsp;</li>
+</ul>
+<hr />
+<h2><a id="user-content-becoming-a-rockstar-data-scientistread-if-you-have-extra-time" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#becoming-a-rockstar-data-scientistread-if-you-have-extra-time"></a>Becoming a Rockstar Data Scientist&nbsp;</h2>
+<ul>
+<li><a href="https://towardsdatascience.com/top-13-skills-to-become-a-rockstar-data-scientist-faf2f97e655d" rel="nofollow">Top 13 Skills To Become a Rockstar Data Scientist</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/understand-these-4-advanced-concepts-to-sound-like-a-machine-learning-master-d32843840b52" rel="nofollow">Understand these 4 ML concepts to sound like a master</a>&nbsp;</li>
+<li><a href="https://medium.com/deliberate-data-science/12-things-i-wish-id-known-before-starting-as-a-data-scientist-45989be6300e" rel="nofollow">12 things I wish I knew before starting as a Data Scientist</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/a-beginners-guide-to-the-data-science-pipeline-a4904b2d8ad3" rel="nofollow">Understand the Data Science pipeline</a>&nbsp;</li>
+<li><a href="https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle" rel="nofollow">Kaggle Data Science Glossary</a>&nbsp;</li>
+<li><a href="https://developers.google.com/machine-learning/glossary/" rel="nofollow">Google Machine Learning Glossary</a>&nbsp;</li>
+<li><a href="https://mlwhiz.com/blog/2020/06/06/hummingbird_faster_ml_preds/" rel="nofollow">Running your ML Predictions 50 times faster - Hummingbird</a>&nbsp;</li>
+<li><a href="https://mlwhiz.com/blog/2019/12/24/mistakes/" rel="nofollow">3 Mistakes you should not make in a Data Science Interview</a>&nbsp;</li>
+<li><a href="https://mlwhiz.com/blog/2019/12/04/blackbox/" rel="nofollow">How to find Feature importances for BlackBox Models?</a>&nbsp;</li>
+</ul>
+<hr />
+<h2><a id="user-content-data-structures-and-algorithmsoptional" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#data-structures-and-algorithmsoptional"></a>Data Structures and Algorithms</h2>
+<p>Although this might be optional, but do not miss this if the Job Description explicitly asks for this, and especially never miss this if you are interviewing at FAANG and similar organizations, or if you have a CS Background. You don't have to be as good as an SDE at this, but at least know the basics.</p>
+<ul>
+<li><a href="https://towardsdatascience.com/a-data-scientists-guide-to-data-structures-algorithms-1176395015a0" rel="nofollow">A Data Scientist's guide to Data Structures and Algorithms</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/handling-trees-in-data-science-algorithmic-interview-ea14dd1b6236" rel="nofollow">Handling Trees in Data Science Algorithmic Interview</a>&nbsp;</li>
+<li><a href="https://mlwhiz.com/blog/2020/01/28/ll/" rel="nofollow">A simple introduction to Linked Lists for Data Scientists</a>&nbsp;</li>
+<li><a href="https://mlwhiz.com/blog/2020/01/28/dp/" rel="nofollow">Dynamic Programming for Data Scientists</a>&nbsp;</li>
+<li><a href="https://mlwhiz.com/blog/2019/12/09/pc/" rel="nofollow">3 Programming concepts for Data Scientists</a>&nbsp;</li>
+<li><a href="https://mlwhiz.com/blog/2019/09/02/graph_algs/" rel="nofollow">Data Scientists, The 5 Graph Algorithms that you should know</a>&nbsp;</li>
+</ul>
+<hr />
+<h2><a id="user-content-engineering-and-deployment" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#engineering-and-deployment"></a>Engineering and Deployment</h2>
+<ul>
+<li><a href="https://mlwhiz.com/blog/2020/06/06/fastapi_for_data_scientists/" rel="nofollow">A Layman&rsquo;s Guide for Data Scientists to create APIs in minutes</a>&nbsp;</li>
+<li><a href="https://mlwhiz.com/blog/2019/12/25/prod/" rel="nofollow">Take your Machine Learning Models to Production with these 5 simple steps</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/there-are-two-very-different-ways-to-deploy-ml-models-heres-both-ce2e97c7b9b1" rel="nofollow">2 way to deploy your ML models</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/deploying-a-keras-deep-learning-model-as-a-web-application-in-p-fc0f2354a7ff" rel="nofollow">How to deploy a Keras model as a web app through Flask</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582" rel="nofollow">How to write Web apps using simple Python for Data Scientists?</a>&nbsp;</li>
+</ul>
+<hr />
+<h2><a id="user-content-big-data-and-spark" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#big-data-and-spark"></a>Big Data and Spark</h2>
+<ul>
+<li><a href="https://www.edureka.co/blog/interview-questions/top-apache-spark-interview-questions-2016/" rel="nofollow">55 Apache Spark Interview Questions</a>&nbsp;</li>
+<li><a href="https://medium.com/analytics-vidhya/10-questions-you-can-expect-in-spark-interview-24b89b807dfb" rel="nofollow">10 Questions you can expect in a Spark Interview</a>&nbsp;</li>
+<li><a href="https://www.tutorialspoint.com/hive/hive_interview_questions.htm" rel="nofollow">Hive Interview Questions</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=Y8LKEDyA5iY" rel="nofollow">Top 20 Apache Spark Interview Questions</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/playlist?list=PLtfmIPhU2DkNjQjL08kR3cd4kUzWqS0vg" rel="nofollow">Spark Interview Questions - The entire playlist</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/playlist?list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std" rel="nofollow">Another fabulous Playlist for Spark Interview Questions</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/practical-spark-tips-for-data-scientists-145d85e9b2d8" rel="nofollow">Practical PySpark tips for Data Scientists</a>&nbsp;</li>
+<li><a href="https://towardsdatascience.com/3-methods-for-parallelization-in-spark-6a1a4333b473" rel="nofollow">3 Ways to parallelize your code using Spark</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=6m3CFbKmK_c" rel="nofollow">Datashader - Revealing the Structure of Genuinely Big Data</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=DBxcua0Vmvk" rel="nofollow">Lightnings Talk : What one should know about Spark-MLlib</a>&nbsp;</li>
+<li><a href="https://medium.com/analytics-vidhya/solving-container-killed-by-yarn-for-exceeding-memory-limits-exception-in-apache-spark-b3349685df16" rel="nofollow">Solving &ldquo;Container Killed by Yarn For Exceeding Memory Limits&rdquo; Exception in Apache Spark</a>&nbsp;</li>
+</ul>
+<hr />
+<h2><a id="user-content-some-amazing-stuff-on-python-and-spark" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#some-amazing-stuff-on-python-and-spark"></a>Some amazing stuff on Python and Spark</h2>
+<p>You can't afford to miss this if you are interviewing for a Big data role.</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=qIKImANLFtE" rel="nofollow">Improving Python and Spark performance</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=abZ0f5ug18U" rel="nofollow">High Performance Python on Spark</a>&nbsp;</li>
+<li><a href="https://www.youtube.com/watch?v=Til-StSDvfA" rel="nofollow">Vectorized UDFs: Scalable Analysis with Python and PySpark</a>&nbsp;</li>
+</ul>
+<hr />
+<h2><a id="user-content-general-interview-questions-across-the-spectrum-video" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#general-interview-questions-across-the-spectrum-video"></a>General Interview Questions across the Spectrum (Video)</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=tTAieUcNHdY" rel="nofollow">Common Data Science Interview Questions - Edureka</a></li>
+<li><a href="https://www.youtube.com/watch?v=t6gOpFLt-Ks" rel="nofollow">Common Machine Learning Interview Question - Edureka</a></li>
+<li><a href="https://www.youtube.com/watch?v=BfowBtIxNu4" rel="nofollow">Top 5 algorithms used in Data Science</a></li>
+<li><a href="https://www.youtube.com/watch?v=BfowBtIxNu4" rel="nofollow">Common Data Science Interview Questions - Analytics University</a></li>
+<li><a href="https://www.youtube.com/watch?v=4Z6lxfglvUU" rel="nofollow">3 types of Data Science Interview Questions</a></li>
+<li><a href="https://www.youtube.com/watch?v=3BRLGRqj8p" rel="nofollow">Lessons learned the hard way - Hacking the Data Science Interview</a></li>
+<li><a href="https://www.youtube.com/watch?v=0HmAEWPfMnM" rel="nofollow">What it's like to Interview as a Data Scientist</a></li>
+<li><a href="https://www.youtube.com/watch?v=MfP-P8EHGBo" rel="nofollow">5 Tips for getting a Data Science Job</a></li>
+<li><a href="https://www.youtube.com/watch?v=z3wMgOTSE5s" rel="nofollow">8 Frequently used Data Science Algorithms</a></li>
+<li><a href="https://www.youtube.com/watch?v=bJPhEa3mbwo" rel="nofollow">Scenario Based Practical Interview</a></li>
+<li><a href="https://www.youtube.com/watch?v=OClrEI_5Ri4" rel="nofollow">KNN v/s K Means</a></li>
+</ul>
+<h2><a id="user-content-general-interview-questions-across-the-spectrum-reading" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#general-interview-questions-across-the-spectrum-reading"></a>General Interview Questions across the Spectrum (Reading)</h2>
+<ul>
+<li><a href="https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778" rel="nofollow">The Data Science Interview Guide</a></li>
+<li><a href="https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c" rel="nofollow">Top 30 Data Science Interview Questions</a></li>
+<li><a href="https://www.edureka.co/blog/interview-questions/data-science-interview-questions/" rel="nofollow">35 Important Data Science Interview Questions</a></li>
+<li><a href="https://medium.com/@e22aafa7d95/c5a66186769a" rel="nofollow">100 Data Science Interview Questions across FAANG</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/" rel="nofollow">The Most Comprehensive Data Science Interview Guide</a></li>
+<li><a href="https://www.springboard.com/blog/machine-learning-interview-questions/" rel="nofollow">41 essential ML interview questions - Springboard</a></li>
+<li><a href="https://github.com/iNeuronai/interview-question-data-science-">30 days of Data Science Interview Preparation - iNeuron</a></li>
+<li><a href="https://www.springboard.com/blog/data-science-interview-questions/" rel="nofollow">109 Data Science Interview Questions - Springboard</a></li>
+<li><a href="https://in.springboard.com/blog/most-asked-data-science-interview-questions-in-india/" rel="nofollow">Most asked Data Science interview questions in India - Springboard</a></li>
+<li><a href="https://github.com/theainerd/MLInterview">List of AI Startups in India and resources for preparing for the interview</a></li>
+<li><a href="https://medium.com/predict/five-interview-questions-to-predict-a-good-data-scientist-40d310cdcd68" rel="nofollow">5 interview questions to predict a good Data Scientist</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2015/12/improve-machine-learning-results/" rel="nofollow">8 proven ways to improve the accuracy of your ML model</a></li>
+<li><a href="https://analyticsindiamag.com/60-interview-questions-on-machine-learning/" rel="nofollow">60 Interview Questions on Machine Learning - AnalyticsIndiaMag</a></li>
+<li><a href="https://towardsdatascience.com/the-big-list-of-ds-ml-interview-resources-2db4f651bd63" rel="nofollow">The Big List of DS and ML interview Resources</a></li>
+<li><a href="https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184" rel="nofollow">100 Basic Data Science Interview Questions along with answers</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/" rel="nofollow">40 interview questions asked at Startups in ML/DS Interview</a></li>
+<li><a href="https://appliedmachinelearning.blog/2018/04/13/my-data-science-machine-learning-job-interview-experience-list-of-ds-ml-dl-questions/" rel="nofollow">My Data Science/Machine Learning Job Interview Experience : List of DS/ML/DL Questions &ndash; Machine Learning in Action</a></li>
+<li><a href="https://www.quora.com/How-do-I-prepare-for-a-phone-interview-for-a-data-scientist-position-with-Airbnb" rel="nofollow">How do I prepare for a Data Science phone interview at Airbnb</a></li>
+<li><a href="https://towardsdatascience.com/selecting-the-best-machine-learning-algorithm-for-your-regression-problem-20c330bad4ef" rel="nofollow">Best ML algorithm for regression problems</a></li>
+<li><a href="https://towardsdatascience.com/how-to-ace-the-in-person-data-science-interview-584ca11df08a" rel="nofollow">How to ace the In person Data Science Interview</a></li>
+<li><a href="https://towardsdatascience.com/how-to-land-a-data-scientist-job-at-your-dream-company-my-journey-to-airbnb-f6a1e99892e8" rel="nofollow">How to land a Data Scientist job at Airbnb</a></li>
+<li><a href="https://github.com/kojino/120-Data-Science-Interview-Questions">120 Data Science Interview Questions(from all domains)</a></li>
+<li><a href="https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229" rel="nofollow">Understanding the Bias-Variance Tradeoff</a></li>
+<li><a href="https://medium.freecodecamp.org/you-need-these-cheat-sheets-if-youre-tackling-machine-learning-algorithms-45da5743888e" rel="nofollow">You Need these Cheatsheets if you are tackling ML algorithms</a></li>
+<li><a href="https://towardsdatascience.com/red-flags-in-data-science-interviews-4f492bbed4c4" rel="nofollow">Red Flags in a Data Science Interview</a></li>
+<li><a href="https://towardsdatascience.com/my-take-on-data-scientist-interview-questions-part-1-6df22252b2e8" rel="nofollow">A Data Scientist's take on Interview Questions</a></li>
+<li><a href="https://stackoverflow.com/questions/41990250/what-is-cross-entropy/41990932#41990932" rel="nofollow">What is Cross Entropy(Nice and Short Explanation)</a></li>
+<li><a href="https://towardsdatascience.com/what-does-an-ideal-data-scientists-profile-look-like-7d7bd78ff7ab" rel="nofollow">What does an ideal Data Scientist's profile look like</a></li>
+<li><a href="https://medium.com/analytics-vidhya/25-fun-questions-for-a-machine-learning-interview-373b744a4faa" rel="nofollow">25 Fun Questions for a Machine Learning interview</a></li>
+<li><a href="https://towardsdatascience.com/how-to-prepare-for-machine-learning-interviews-5fac3db58168" rel="nofollow">How to Prepare for Machine Learning Interviews</a></li>
+<li><a href="https://towardsdatascience.com/machine-learning-general-process-8f1b510bd8af" rel="nofollow">How to develop a Machine Learning Model from scratch</a></li>
+<li><a href="https://medium.com/fintechexplained/end-to-end-guide-for-machine-learning-project-146c288186dc" rel="nofollow">End to End guide for a Machine Learning Project</a></li>
+<li><a href="https://medium.com/fintechexplained/supervised-machine-learning-regression-vs-classification-18b2f97708de" rel="nofollow">Classification v/s Regression</a></li>
+<li><a href="https://medium.com/fintechexplained/must-know-mathematical-measures-for-data-scientist-15bfc4f7f39c" rel="nofollow">Must Know mathematical measures for Every Data Scientist</a></li>
+<li><a href="https://towardsdatascience.com/where-did-the-least-square-come-from-3f1abc7f7caf" rel="nofollow">Where did the least square come from</a></li>
+<li><a href="https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a" rel="nofollow">Regularization in Machine Learning - Explained</a></li>
+</ul>
+<hr />
+<h2><a id="user-content-interesting-reads" class="anchor" href="https://github.com/rbhatia46/Data-Science-Interview-Resources#interesting-reads"></a>Interesting Reads</h2>
+<ul>
+<li><a href="https://towardsdatascience.com/3-common-data-science-career-transitions-and-how-to-make-them-happen-588c3618942f" rel="nofollow">3 Common Data Science Career Transitions and how to make them happen</a></li>
+<li><a href="https://hackernoon.com/navigating-the-data-science-career-landscape-db746a61ac62" rel="nofollow">Navigating the Data Science Career Landscape</a></li>
+<li><a href="https://towardsdatascience.com/which-model-and-how-much-data-75a3999660f3" rel="nofollow">Which model and how much data</a></li>
+</ul>
 
